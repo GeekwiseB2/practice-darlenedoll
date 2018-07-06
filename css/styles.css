@@ -1,0 +1,40 @@
+body {  background-color: lightblue;}
+
+h1{ color:blue;
+}
+h1 {text-shadow: 2px,5px,3px #FF0000;}
+ li {
+    text-shadow: 2px,5px,5px red;
+}
+ h3 {text-shadow: 2px,5px,3px #FF0000;}
+ #navlist {
+     position: relative;
+ }
+ul  {
+  text-shadow: 1px 1px red;
+}
+
+  a class {text-shadow: color: red;
+    text-shadow: 2px,2px,3px;
+}
+ #navlist li { text-shadow: 0 0 3px #ff0000;
+     margin: 0;
+     padding: 0;
+     list-style: none;
+     position: absolute;
+     top: 0;
+ }
+ h1 {
+    background-color: pink;
+}
+{
+text-shadow: 2px 2px red;
+}
+
+div {
+    background-color: lightblue;
+}
+
+ul {
+    background-color: yellow;
+}
